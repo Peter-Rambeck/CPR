@@ -3,7 +3,6 @@ public class Person {
     String navn;
 
     public Person() {
-
     }
 
     public void setCprnr(CPRNr cprnr){
